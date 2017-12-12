@@ -9,8 +9,8 @@ import (
 	"sync/atomic"
 	"time"
 
-	"github.com/pedrogms82/musicoin-pool/storage"
-	"github.com/pedrogms82/musicoin-pool/util"
+	"github.com/mikbal54/musicoin-pool/storage"
+	"github.com/mikbal54/musicoin-pool/util"
 
 )
 
