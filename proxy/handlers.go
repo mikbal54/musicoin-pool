@@ -5,8 +5,8 @@ import (
 	"regexp"
 	"strings"
 
-	"github.com/pedrogms82/musicoin-pool/rpc"
-	"github.com/pedrogms82/musicoin-pool/util"
+	"github.com/mikbal54/musicoin-pool/rpc"
+	"github.com/mikbal54/musicoin-pool/util"
 )
 
 // Allow only lowercase hexadecimal with 0x prefix
