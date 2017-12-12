@@ -9,7 +9,7 @@ import (
 	"errors"
 	"time"
 
-	"github.com/pedrogms82/musicoin-pool/util"
+	"github.com/mikbal54/musicoin-pool/util"
 	"math/rand"
 	"strings"
 )
