@@ -9,7 +9,7 @@ import (
 	"net"
 	"time"
 
-	"github.com/pedrogms82/musicoin-pool/util"
+	"github.com/mikbal54/musicoin-pool/util"
 )
 
 const (
