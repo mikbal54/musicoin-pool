@@ -10,9 +10,9 @@ import (
 
 	"github.com/ethereum/go-ethereum/common/hexutil"
 
-	"github.com/pedrogms82/musicoin-pool/rpc"
-	"github.com/pedrogms82/musicoin-pool/storage"
-	"github.com/pedrogms82/musicoin-pool/util"
+	"github.com/mikbal54/musicoin-pool/rpc"
+	"github.com/mikbal54/musicoin-pool/storage"
+	"github.com/mikbal54/musicoin-pool/util"
 )
 
 const txCheckInterval = 5 * time.Second
