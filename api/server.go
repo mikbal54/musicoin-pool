@@ -12,8 +12,8 @@ import (
 
 	"github.com/gorilla/mux"
 
-	"github.com/pedrogms82/musicoin-pool/storage"
-	"github.com/pedrogms82/musicoin-pool/util"
+	"github.com/mikbal54/musicoin-pool/storage"
+	"github.com/mikbal54/musicoin-pool/util"
 )
 
 type ApiConfig struct {
