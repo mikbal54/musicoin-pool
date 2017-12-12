@@ -5,10 +5,11 @@ import (
 	"os"
 	"testing"
 
-	"github.com/pedrogms82/musicoin-pool/rpc"
-	"github.com/pedrogms82/musicoin-pool/storage"
+	"github.com/mikbal54/musicoin-pool/rpc"
+	"github.com/mikbal54/musicoin-pool/storage"
 )
 
+//TODO: these test are setup for ethereum pre byz.
 func TestMain(m *testing.M) {
 	os.Exit(m.Run())
 }
