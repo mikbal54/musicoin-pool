@@ -11,11 +11,11 @@ import (
 
 	"github.com/yvasiyarov/gorelic"
 
-	"github.com/pedrogms82/musicoin-pool/api"
-	"github.com/pedrogms82/musicoin-pool/payouts"
-	"github.com/pedrogms82/musicoin-pool/proxy"
-	"github.com/pedrogms82/musicoin-pool/storage"
-	"github.com/pedrogms82/musicoin-pool/exchange"
+	"github.com/mikbal54/musicoin-pool/api"
+	"github.com/mikbal54/musicoin-pool/payouts"
+	"github.com/mikbal54/musicoin-pool/proxy"
+	"github.com/mikbal54/musicoin-pool/storage"
+	"github.com/mikbal54/musicoin-pool/exchange"
 )
 
 var cfg proxy.Config
