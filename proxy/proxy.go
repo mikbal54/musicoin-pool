@@ -13,10 +13,10 @@ import (
 
 	"github.com/gorilla/mux"
 
-	"github.com/pedrogms82/musicoin-pool/policy"
-	"github.com/pedrogms82/musicoin-pool/rpc"
-	"github.com/pedrogms82/musicoin-pool/storage"
-	"github.com/pedrogms82/musicoin-pool/util"
+	"github.com/mikbal54/musicoin-pool/policy"
+	"github.com/mikbal54/musicoin-pool/rpc"
+	"github.com/mikbal54/musicoin-pool/storage"
+	"github.com/mikbal54/musicoin-pool/util"
 )
 
 type ProxyServer struct {
