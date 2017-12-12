@@ -7,7 +7,7 @@ import (
 	"strings"
 	"time"
 
-	"github.com/pedrogms82/musicoin-pool/util"
+	"github.com/mikbal54/musicoin-pool/util"
 	"gopkg.in/redis.v3"
 	"log"
 
